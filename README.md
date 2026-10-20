@@ -6,7 +6,6 @@ A hardware project that controls the speed of a permanent-magnet DC motor by var
 |---|---|
 | **Course** | ELL-1000: Introduction to Electrical Engineering |
 | **Institute** | Indian Institute of Technology Delhi |
-| **Instructor** | Prof. YOUR-PROFESSOR-NAME |
 | **Team** | Spraha Vats (2025CE12028), Veeraj Jain (2025CE11853) |
 | **Type** | Hardware prototype (breadboard) |
 
